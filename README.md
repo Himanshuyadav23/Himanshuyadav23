@@ -1,30 +1,179 @@
-<h1 align="center">Hi 👋, I'm Himanshu Yadav</h1>
-<h3 align="center">Web Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuyadav23&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuyadav23" /> </p>
+# 👋 Hi there, I'm [Your Name]
 
-<p align="left"> <a href="https://twitter.com/himanshuyadavyt" target="blank"><img src="https://img.shields.io/twitter/follow/himanshuyadavyt?logo=twitter&style=for-the-badge" alt="himanshuyadavyt" /></a> </p>
+### 🚀 Full Stack Developer | 💻 Passionate Coder | 🎯 Problem Solver
 
-- 🌱 I’m currently learning **MERN**
+[![GitHub followers](https://img.shields.io/github/followers/Himanshuyadav23?label=Follow&style=social)](https://github.com/Himanshuyadav23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Himanshuyadav23)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
-- 👨‍💻 All of my projects are available at [https://hy21.netlify.app/](https://hy21.netlify.app/)
+</div>
 
-- 💬 Ask me about **PHP,JS**
+---
 
-- 📫 How to reach me **Shorts.himanshuyadav@gmail.com**
+## 🎯 About Me
 
-- ⚡ Fun fact **I am a Multitasker**
+```javascript
+const developer = {
+  name: "Your Name",
+  location: "Your Location",
+  currentRole: "Your Role",
+  education: "Your Education",
+  interests: ["Web Development", "Open Source", "Tech Innovation"],
+  funFact: "I love turning coffee into code ☕"
+};
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/himanshuyadavyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshuyadavyt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/himanshu yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu yadav" height="30" width="40" /></a>
-<a href="https://instagram.com/himanshuyadav.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshuyadav.dev" height="30" width="40" /></a>
-</p>
+console.log(developer);
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I'm a passionate developer who loves building innovative solutions and contributing to open-source projects. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or contributing to the developer community.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuyadav23&show_icons=true&locale=en&layout=compact" alt="himanshuyadav23" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuyadav23&show_icons=true&locale=en" alt="himanshuyadav23" /></p>
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Tools & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshuyadav23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshuyadav23&theme=tokyonight&hide_border=true&background=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuyadav23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Himanshuyadav23&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Himanshuyadav23&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 🔥 Project 1: [Project Name]
+**Tech Stack:** React, Node.js, MongoDB
+- Description of what the project does
+- Key features and achievements
+- [Live Demo](https://your-demo-link.com) | [Source Code](https://github.com/Himanshuyadav23/project-repo)
+
+### 🚀 Project 2: [Project Name]
+**Tech Stack:** Vue.js, Python, PostgreSQL
+- Description of what the project does
+- Key features and achievements
+- [Live Demo](https://your-demo-link.com) | [Source Code](https://github.com/Himanshuyadav23/project-repo)
+
+### ⚡ Project 3: [Project Name]
+**Tech Stack:** Next.js, TypeScript, Firebase
+- Description of what the project does
+- Key features and achievements
+- [Live Demo](https://your-demo-link.com) | [Source Code](https://github.com/Himanshuyadav23/project-repo)
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Blog Post Title 1](https://your-blog.com/post-1)
+- [Blog Post Title 2](https://your-blog.com/post-2)
+- [Blog Post Title 3](https://your-blog.com/post-3)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on interesting projects and discussing new ideas!
+
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@Himanshuyadav23](https://twitter.com/Himanshuyadav23)
+- 🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com)
+
+---
+
+## 💡 Fun Facts
+
+- ⚡ I'm currently learning **Machine Learning** and **Cloud Architecture**
+- 🎯 2024 Goals: Contribute more to Open Source projects
+- 🎨 I enjoy UI/UX design and creating beautiful user experiences
+- 📚 Always reading tech blogs and documentation
+- 🎮 Love playing strategy games in my free time
+
+---
+
+<div align="center">
+
+### ⭐️ Star some of my repositories if you find them interesting!
+
+**Thanks for visiting!** 😊
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Himanshuyadav23.Himanshuyadav23)
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ and lots of ☕**
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshuyadav23)
+
+</div>
