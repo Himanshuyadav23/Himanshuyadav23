@@ -59,14 +59,14 @@
   
   ### 📊 GitHub Stats
   
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Himanshuyadav23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&border_radius=10"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuyadav23&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&border_radius=10"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshuyadav23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuyadav23&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuyadav23&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=10" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshuyadav23&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
   
 </div>
 
@@ -143,6 +143,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Himanshuyadav23/Himanshuyadav23/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Himanshuyadav23/Himanshuyadav23/output/github-contribution-grid-snake.svg)
   
 </div>
