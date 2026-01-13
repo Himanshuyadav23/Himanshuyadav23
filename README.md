@@ -1,13 +1,21 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Himanshu+Yadav!;+HEHE+I+AM+A+VIBE+CODER!;" />
+</div>
 
-# 👋 Hi there, I'm [Your Name]
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Himanshuyadav23&color=blueviolet&style=for-the-badge)
+  [![GitHub followers](https://img.shields.io/github/followers/Himanshuyadav23?label=Follow&style=social)](https://github.com/Himanshuyadav23)
+  
+</div>
 
-### 🚀 Full Stack Developer | 💻 Passionate Coder | 🎯 Problem Solver
+---
 
-[![GitHub followers](https://img.shields.io/github/followers/Himanshuyadav23?label=Follow&style=social)](https://github.com/Himanshuyadav23)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Himanshuyadav23)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+<div align="center">
+
+### 🚀 Full Stack Developer | 💻 Vibe Coder | 🎯 Problem Solver | 🏠 Working from Home
+
+📍 **India** | 🌐 [Portfolio](https://hyadav.tech/) | 💼 [LinkedIn](https://www.linkedin.com/in/himanshu-yadav-93b9151a5/) | 📷 [Instagram](https://www.instagram.com/himanshuuuuyadav/)
 
 </div>
 
@@ -16,71 +24,60 @@
 ## 🎯 About Me
 
 ```javascript
-const developer = {
-  name: "Your Name",
-  location: "Your Location",
-  currentRole: "Your Role",
-  education: "Your Education",
-  interests: ["Web Development", "Open Source", "Tech Innovation"],
-  funFact: "I love turning coffee into code ☕"
+const himanshu = {
+  name: "Himanshu Yadav",
+  location: "India 🇮🇳",
+  bio: "HEHE I AM A VIBE CODER",
+  organization: "Dcomm",
+  role: "Full Stack Developer",
+  workingFrom: "Home 🏠",
+  interests: ["Web Development", "TypeScript", "Building Cool Stuff"],
+  funFact: "I turn vibes into code! 🎵💻"
 };
 
-console.log(developer);
+console.log(himanshu);
 ```
 
-I'm a passionate developer who loves building innovative solutions and contributing to open-source projects. When I'm not coding, you can find me exploring new technologies, reading tech blogs, or contributing to the developer community.
+Hey! I'm **Himanshu**, a passionate developer who loves building innovative solutions and creating amazing user experiences. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or just vibing with some good code! 🎵
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages & Frameworks
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Frontend & Design
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### ⚙️ Tools & Others
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Himanshuyadav23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuyadav23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshuyadav23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himanshuyadav23&theme=tokyonight&hide_border=true&background=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuyadav23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
+<div align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuyadav23&theme=tokyonight&hide_border=true&background=0D1117" />
+  
 </div>
 
 ---
@@ -88,9 +85,9 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Himanshuyadav23&theme=tokyonight&no-frame=true&row=1&column=7)
-
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Himanshuyadav23&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
+  
 </div>
 
 ---
@@ -98,82 +95,125 @@ I'm a passionate developer who loves building innovative solutions and contribut
 ## 📈 Contribution Graph
 
 <div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Himanshuyadav23&theme=tokyo-night&hide_border=true)
-
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Himanshuyadav23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+  
 </div>
 
 ---
 
 ## 💼 Featured Projects
 
-### 🔥 Project 1: [Project Name]
-**Tech Stack:** React, Node.js, MongoDB
-- Description of what the project does
-- Key features and achievements
-- [Live Demo](https://your-demo-link.com) | [Source Code](https://github.com/Himanshuyadav23/project-repo)
+### 🔥 [Love Website Generator](https://github.com/Himanshuyadav23/love-website-generator)
+**Tech Stack:** JavaScript, HTML, CSS  
+A beautiful, customizable love website generator for couples. Perfect for anniversaries, Valentine's Day, or just to show your love! Features interactive elements, animations, and romantic design.
 
-### 🚀 Project 2: [Project Name]
-**Tech Stack:** Vue.js, Python, PostgreSQL
-- Description of what the project does
-- Key features and achievements
-- [Live Demo](https://your-demo-link.com) | [Source Code](https://github.com/Himanshuyadav23/project-repo)
-
-### ⚡ Project 3: [Project Name]
-**Tech Stack:** Next.js, TypeScript, Firebase
-- Description of what the project does
-- Key features and achievements
-- [Live Demo](https://your-demo-link.com) | [Source Code](https://github.com/Himanshuyadav23/project-repo)
+⭐ **Stars:** 1 | 🍴 **Forks:** 2 | 📄 **License:** MIT
 
 ---
 
-## 📝 Latest Blog Posts
+### 🚀 [Momentum](https://github.com/Himanshuyadav23/Momentum)
+**Tech Stack:** TypeScript  
+Track time, build habits, manage expenses, and unlock your full potential with Momentum's comprehensive productivity suite.
 
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://your-blog.com/post-1)
-- [Blog Post Title 2](https://your-blog.com/post-2)
-- [Blog Post Title 3](https://your-blog.com/post-3)
-<!-- BLOG-POST-LIST:END -->
+---
+
+### ⚡ [Peer-sphere](https://github.com/Himanshuyadav23/Peer-sphere)
+**Tech Stack:** TypeScript  
+SCSIT matchmaker platform - Connecting peers and building communities.
+
+---
+
+### 🎨 [2D Portfolio](https://github.com/Himanshuyadav23/2D-Portfolio)
+**Tech Stack:** JavaScript  
+A unique 2D portfolio website showcasing creative design and interactive elements.
+
+⭐ **Stars:** 1
+
+---
+
+### 🌐 [Himanshuyadav.com](https://github.com/Himanshuyadav23/Himanshuyadav.com)
+**Tech Stack:** TypeScript  
+My personal website - A modern, responsive portfolio showcasing my work and projects.
+
+---
+
+### 🏪 [Guddewala](https://github.com/Himanshuyadav23/Guddewala)
+**Tech Stack:** HTML  
+Landing page for a toy store - Beautiful and engaging design.
+
+---
+
+## 📊 Repository Stats
+
+<div align="center">
+  
+  ![Repository Stats](https://github-contributor-stats.vercel.app/api?username=Himanshuyadav23&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+  
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to collaborating on interesting projects and discussing new ideas!
+<div align="center">
+  
+  I'm always open to collaborating on interesting projects and discussing new ideas!
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-yadav-93b9151a5/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/himanshuuuuyadav/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hyadav.tech/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshuyadav23)
+  
+</div>
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@Himanshuyadav23](https://twitter.com/Himanshuyadav23)
-- 🌐 Portfolio: [Your Portfolio Website](https://yourportfolio.com)
+---
+
+## 💡 Fun Facts & Current Focus
+
+- ⚡ **Currently Learning:** Advanced TypeScript patterns and modern web frameworks
+- 🎯 **2025 Goals:** Build more impactful projects and contribute to open source
+- 🎨 **Passion:** Creating beautiful, user-friendly interfaces
+- 📚 **Always:** Exploring new technologies and best practices
+- 🏠 **Working From:** Home (Remote Developer)
+- 🎵 **Vibe:** Coding with good music and great energy!
 
 ---
 
-## 💡 Fun Facts
-
-- ⚡ I'm currently learning **Machine Learning** and **Cloud Architecture**
-- 🎯 2024 Goals: Contribute more to Open Source projects
-- 🎨 I enjoy UI/UX design and creating beautiful user experiences
-- 📚 Always reading tech blogs and documentation
-- 🎮 Love playing strategy games in my free time
-
----
+## 📈 GitHub Stats Summary
 
 <div align="center">
-
-### ⭐️ Star some of my repositories if you find them interesting!
-
-**Thanks for visiting!** 😊
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Himanshuyadav23.Himanshuyadav23)
-
+  
+  ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himanshuyadav23&theme=tokyonight)
+  
 </div>
 
 ---
 
 <div align="center">
+  
+  ### ⭐️ Star some of my repositories if you find them interesting!
+  
+  **Thanks for visiting!** 😊
+  
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Himanshuyadav23.Himanshuyadav23&left_color=blueviolet&right_color=purple)
+  
+</div>
 
-**Made with ❤️ and lots of ☕**
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshuyadav23)
+<div align="center">
+  
+  **Made with ❤️ and lots of ☕ by a Vibe Coder**
+  
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  
+</div>
 
+---
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/Himanshuyadav23/Himanshuyadav23/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
