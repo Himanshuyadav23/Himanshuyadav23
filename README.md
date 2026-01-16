@@ -57,30 +57,6 @@
 
 <div align="center">
   
-  ### 📊 GitHub Stats
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Himanshuyadav23&show_icons=true&theme=tokyonight&hide_border=true" alt="Himanshuyadav23's GitHub stats" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuyadav23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuyadav23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Himanshuyadav23&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
-  
-</div>
-
----
-
-<div align="center">
-  
   ### 💼 Featured Projects
   
   | 🔥 Love Website Generator | 🚀 Momentum |
@@ -140,10 +116,3 @@
   
 </div>
 
----
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/Himanshuyadav23/Himanshuyadav23/output/github-contribution-grid-snake.svg" alt="snake" />
-  
-</div>
